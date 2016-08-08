@@ -1,0 +1,44 @@
+_repo: Hohe-SommertageNeue-Gedichte_12268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Falke, Gustav
+    birthdate: 1853
+    deathdate: 1916
+    gutenberg_agent_id: '3825'
+    url: http://www.gutenberg.org/2009/agents/3825
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12268'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+- GITenberg
+tableOfContents: "Sommer\r\nDer Parkteich\r\nTrüber Tag\r\nVergebliche Bitte\r\nLiebesgestammel\r\
+  \nWaldgang\r\nIn tiefer Scham\r\nAus tiefer Qual\r\nIm Entschlummern\r\nBitte\r\n\
+  Erinnerung\r\nBesitz\r\nAusklang\r\nZu Hause\r\nHeimkehr\r\nVor Schlafengehen\r\n\
+  Mondlicht\r\nMusik\r\nEs schneit\r\nDie Weihnachtsbäume\r\nMeinem Sohn zur Taufe\r\
+  \nDie Mutter\r\nSteernkiker\r\nLengen\r\nVerbaden Leew\r\nAn de Gorenport\r\nGo'\
+  \ Nach\r\nLütt Ursel\r\nDe Snurkers\r\nDe lütt' Boom\r\nDe Stormfloth\r\nRitornelle\r\
+  \nFrühlingstrunken\r\nEin silbernes Märchen\r\nPfingstlied\r\nWunsch\r\nSeele\r\n\
+  Irrende Seele\r\nRosentod\r\nAuf meinen ausgestopften Falken\r\nMorgen zwischen\
+  \ Hecken\r\nUnd gar nicht lange\r\nDie bunten Kühe\r\nAuf der Bleiche\r\nWäsche\
+  \ im Wind\r\nWinterwald\r\nWinter\r\nDie Netzflickerinnen\r\nDas Mädchen mit den\
+  \ Rosen\r\nDas Nixchen\r\nFeierabend\r\nDas Mädel\r\nIm Schnellzug\r\nReigen\r\n\
+  Der Backfisch\r\nDer seltene Vogel\r\nIdyll\r\nPusteblumen\r\nKonsequenz\r\nDie\
+  \ Räuber\r\nDenkmalkantate\r\nBescheidener Wunsch\r\nZweimal ist vier\r\nProlog\
+  \ zur Nietzsche-Gedenkfeier\r\nProlog zur Böcklin-Gedenkfeier\r\nDer Trauermantel\r\
+  \nTag und Nacht\r\nDas Birkenwäldchen\r\nDer Freier\r\nDer Frühlingsreiter\r\nScherz\r\
+  \nDie Schnitterin\r\nDas Geisterschiff\r\nDie treue Schwester\r\nSara Limbeck\r\n\
+  Thies und Ose\r\nWie die Stakendorfer die Lübecker los wurden\r\nDas Opferkind"
+title: 'Hohe Sommertage
+
+  Neue Gedichte'
+url: http://www.gutenberg.org/ebooks/12268
